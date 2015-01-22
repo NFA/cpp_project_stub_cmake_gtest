@@ -1,12 +1,14 @@
-# Synopsis
+# Stub project for C++
+---
+## Synopsis
 Short stub project for C++ using CMake (http://www.cmake.org/) and Googletest 
 (https://code.google.com/p/googletest/). 
-# Layout
+## Layout
 `include/` put header files here.
 `src/` put the application's source code here.
-´test/` put the unit tests here.
+`test/` put the unit tests here.
 
-# Usage
+## Usage
 In the root directory:
 
 ```
