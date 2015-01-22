@@ -28,4 +28,4 @@ make
 make test # using CTest interface
 ctest -VV # using CTest interface showing googletest output
 test/unittest # run the text executable with the unit tests directly
-``
+```
